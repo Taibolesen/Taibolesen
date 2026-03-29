@@ -1,1 +1,12 @@
-idk why i made this lol
+using System;
+
+namespace ExampleApp
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("why i made this file lol");
+        }
+    }
+}
